@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=l
+comment0.target=void\ wrapDecorator(PriceDecorator)
+comment1.params=
+comment1.target=double\ getPrice()
+numComments=2

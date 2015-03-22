@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=d
+comment0.target=Toppings(java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Burger\r\n
+comment1.params=
+comment1.target=java.lang.String\ getDescription()
+comment2.params=options
+comment2.target=void\ setOptions(java.lang.String[])
+numComments=3
